@@ -6,9 +6,7 @@ Is a back end template in nodejs with some middlewares and modules ready to use.
 - moongose
 
 ## Middlewares
-- cors
-- helmet
-- body-parser
+
 - express-jwt
 - request log
 
